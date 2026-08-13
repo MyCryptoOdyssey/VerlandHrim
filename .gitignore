@@ -1,0 +1,15 @@
+# Secrets - never committed
+*password*
+*credential*
+*.key
+*keyring*
+
+# Big binaries - covered by other backup tiers
+*.dat
+*.zip
+*.etl
+
+# Noise
+Thumbs.db
+desktop.ini
+*.tmp
