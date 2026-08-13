@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<view title="LeakWatch" icon="7676" width="200" height="118">
+  <control progid="DecalControls.FixedLayout">
+    <control progid="DecalControls.StaticText" name="lblMem" left="8" top="6" width="184" height="18" text="Memory --%"/>
+    <control progid="DecalControls.CheckBox" name="chkRecall" left="8" top="30" width="184" height="20" text="Auto-Recall (at 90%)"/>
+    <control progid="DecalControls.CheckBox" name="chkLogout" left="8" top="54" width="184" height="20" text="Auto-Logout (at 90%)"/>
+    <control progid="DecalControls.StaticText" name="lblHint" left="8" top="80" width="184" height="30" text="Check Both To Recall and Logout"/>
+  </control>
+</view>

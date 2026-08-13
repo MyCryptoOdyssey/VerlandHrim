@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<view title="DerethWatch" icon="25739" width="150" height="70">
+  <control progid="DecalControls.FixedLayout">
+    <control progid="DecalControls.CheckBox" name="chkEye" left="8" top="4" width="134" height="20" text="Watch"/>
+    <control progid="DecalControls.CheckBox" name="chkClientOnly" left="8" top="28" width="134" height="20" text="Client Only View"/>
+  </control>
+</view>
